@@ -1,0 +1,44 @@
+{
+  "name": "fluid-tabs-vue",
+  "version": "0.1.0",
+  "description": "A Vue 3 component for fluid-tabs, with v-model, slots and reactive options.",
+  "author": "Ewan Howell <ewanhowell5195>",
+  "license": "MPL-2.0",
+  "type": "module",
+  "main": "./dist/fluid-tabs-vue.min.js",
+  "exports": {
+    ".": "./dist/fluid-tabs-vue.min.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewanhowell5195/fluid-tabs-vue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ewanhowell5195/fluid-tabs-vue/issues"
+  },
+  "homepage": "https://github.com/ewanhowell5195/fluid-tabs-vue#readme",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "fluid-tabs": "^1.0.1"
+  },
+  "peerDependencies": {
+    "vue": "^3.4.0"
+  },
+  "devDependencies": {
+    "terser": "^5.43.1"
+  },
+  "keywords": [
+    "fluid-tabs",
+    "vue",
+    "vue3",
+    "vue-component",
+    "tabs",
+    "tab-bar",
+    "tabbed-interface"
+  ]
+}
