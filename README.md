@@ -5,6 +5,8 @@ A lightweight tabs component for Vue 3, built on [fluid-tabs](https://github.com
 [![npm version](https://badge.fury.io/js/fluid-tabs-vue.svg)](https://www.npmjs.com/package/fluid-tabs-vue)
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
+[**Live Demo**](https://fluid-tabs.ewanhowell.com/)
+
 ## Features
 
 * Six visual styles out of the box: underline, classic tabs, slide, pill, nav, and card
